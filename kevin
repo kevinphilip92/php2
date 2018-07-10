@@ -1,1 +1,11 @@
-print('Hello, world!')
+<html>
+<body>
+
+<h1>BELGIUM WC <\h1>
+
+<?php
+echo "v1.0";
+?>
+
+</html>
+</body>
